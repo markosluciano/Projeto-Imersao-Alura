@@ -1,4 +1,4 @@
-## Leia-me: Busca Rápida por Atletas Brasileiros!
+## Busca Rápida por Atletas Brasileiros - Imersão Dev com Gemini
 
 **O que faz essa aplicação?**
 
